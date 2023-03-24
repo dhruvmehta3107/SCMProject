@@ -25,7 +25,7 @@ def isPalindrome(n) :
  
 if __name__ == "__main__" :
  
-    print("Hello!")
+    print("Hello Dunia!")
     n = int(input())
      
     if isPalindrome(n) == 1 :
